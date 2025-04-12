@@ -5,7 +5,7 @@
 > [!IMPORTANT]
 > Allman brace style approach is used.
 
-A collection of handy WebStorm code snippets to speed up React component creation, including both client and server components with and without props.
+A collection of handy WebStorm snippets to speed up React component creation, including both client and server components with and without props.
 
 ## Table of Contents
 
