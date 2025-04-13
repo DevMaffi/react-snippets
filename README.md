@@ -2,6 +2,9 @@
 
 # React Snippets
 
+> [!IMPORTANT]
+> Allman brace style is used consistently in all snippets.
+
 A comprehensive collection of handy React snippets for **VSCode** and **WebStorm** to speed up component creation and improve productivity.
 
 Supports:
@@ -11,9 +14,6 @@ Supports:
 -   ✅ React Server Components
 -   ✅ Components with Props
 -   ✅ Reusable Action Handlers
-
-> [!IMPORTANT]
-> Allman brace style is used consistently in all snippets.
 
 ---
 
