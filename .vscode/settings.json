@@ -1,3 +1,23 @@
 {
-    "cSpell.words": ["Allman", "pascalcase", "rccp", "rscp", "webstorm"]
+    "[typescript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "cSpell.words": ["Allman", "pascalcase", "rccp", "rscp", "webstorm"],
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "eslint.format.enable": true,
+    "eslint.useFlatConfig": true,
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "javascript.preferences.importModuleSpecifier": "non-relative",
+    "javascript.preferences.jsxAttributeCompletionStyle": "braces",
+    "typescript.preferences.importModuleSpecifier": "non-relative",
+    "typescript.preferences.jsxAttributeCompletionStyle": "braces"
 }
