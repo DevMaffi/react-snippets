@@ -1,0 +1,14 @@
+{
+    "name": "react-snippets",
+    "version": "1.0.0",
+    "description": "A collection of handy React snippets.",
+    "type": "module",
+    "private": true,
+    "scripts": {},
+    "author": "DevMaffi",
+    "license": "MIT",
+    "devDependencies": {
+        "@winnerpc/prettier-config": "2025.1.1",
+        "prettier": "3.5.3"
+    }
+}

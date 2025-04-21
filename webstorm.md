@@ -1,5 +1,3 @@
-<!-- @format -->
-
 # WebStorm Snippets for React Development
 
 > [!IMPORTANT]
@@ -9,12 +7,12 @@ A collection of handy WebStorm snippets to speed up React component creation, in
 
 ## Table of Contents
 
--   [React Client Component](#react-client-component)
--   [React Client Component with Props](#react-client-component-with-props)
--   [React Server Component](#react-server-component)
--   [React Server Component with Props](#react-server-component-with-props)
--   [React Action Handler](#react-action-handler)
--   [Applicable Contexts](#applicable-contexts)
+- [React Client Component](#react-client-component)
+- [React Client Component with Props](#react-client-component-with-props)
+- [React Server Component](#react-server-component)
+- [React Server Component with Props](#react-server-component-with-props)
+- [React Action Handler](#react-action-handler)
+- [Applicable Contexts](#applicable-contexts)
 
 ---
 
@@ -50,7 +48,7 @@ export default $TM_FILENAME_BASE$
 | ---------------- | --------------------------------------------------- | ------------- |
 | TM_FILENAME_BASE | `capitalize(camelCase(fileNameWithoutExtension()))` | ""            |
 
-**[⬆️ back to top](#webstorm-snippets-for-react-development)**
+[⬆️ back to top](#webstorm-snippets-for-react-development)
 
 ---
 
@@ -93,7 +91,7 @@ export default $TM_FILENAME_BASE$
 | ---------------- | --------------------------------------------------- | ------------- |
 | TM_FILENAME_BASE | `capitalize(camelCase(fileNameWithoutExtension()))` | ""            |
 
-**[⬆️ back to top](#webstorm-snippets-for-react-development)**
+[⬆️ back to top](#webstorm-snippets-for-react-development)
 
 ---
 
@@ -127,7 +125,7 @@ export default $TM_FILENAME_BASE$
 | ---------------- | --------------------------------------------------- | ------------- |
 | TM_FILENAME_BASE | `capitalize(camelCase(fileNameWithoutExtension()))` | ""            |
 
-**[⬆️ back to top](#webstorm-snippets-for-react-development)**
+[⬆️ back to top](#webstorm-snippets-for-react-development)
 
 ---
 
@@ -168,7 +166,7 @@ export default $TM_FILENAME_BASE$
 | ---------------- | --------------------------------------------------- | ------------- |
 | TM_FILENAME_BASE | `capitalize(camelCase(fileNameWithoutExtension()))` | ""            |
 
-**[⬆️ back to top](#webstorm-snippets-for-react-development)**
+[⬆️ back to top](#webstorm-snippets-for-react-development)
 
 ---
 
@@ -193,7 +191,7 @@ function handle$NAME$()
 | ---- | ---------- | ------------- |
 | NAME |            |               |
 
-**[⬆️ back to top](#webstorm-snippets-for-react-development)**
+[⬆️ back to top](#webstorm-snippets-for-react-development)
 
 ---
 
@@ -201,16 +199,16 @@ function handle$NAME$()
 
 _This section outlines where each snippet is intended to be used within a TypeScript/React code file in WebStorm._
 
--   **Component Snippets (`rcc`, `rccp`, `rsc`, `rscp`)**
+- ### Component Snippets (`rcc`, `rccp`, `rsc`, `rscp`)
 
     These snippets should be used at the top level of your TypeScript React files, where components are typically declared.
 
     ![alt text](assets/ts-top-lvl.png)
 
--   **Function Snippet (`rah`)**
+- ### Function Snippet (`rah`)
 
     This snippet is designed to be used within a function or method body, where you'd typically define event handlers or other logic.
 
     ![alt text](assets/ts-statement.png)
 
-**[⬆️ back to top](#webstorm-snippets-for-react-development)**
+[⬆️ back to top](#webstorm-snippets-for-react-development)

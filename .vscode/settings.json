@@ -5,9 +5,15 @@
     "[typescriptreact]": {
         "editor.defaultFormatter": "dbaeumer.vscode-eslint"
     },
-    "cSpell.words": ["Allman", "pascalcase", "rccp", "rscp", "webstorm"],
+    "cSpell.words": [
+        "Allman",
+        "pascalcase",
+        "rccp",
+        "rscp",
+        "webstorm",
+        "winnerpc"
+    ],
     "diffEditor.ignoreTrimWhitespace": false,
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "eslint.format.enable": true,
