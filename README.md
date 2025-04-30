@@ -1,9 +1,9 @@
 # React Snippets
 
-> [!IMPORTANT]
-> Allman brace style is used consistently in all snippets.
+> [!NOTE]
+> Allman brace style approach is used consistently in all snippets.
 
-A comprehensive collection of handy React snippets for **VSCode** and **WebStorm** to speed up component creation and improve productivity.
+A comprehensive collection of handy React snippets for [VSCode](./vscode.md) and [WebStorm](./webstorm.md) to speed up component creation and improve productivity.
 
 Supports:
 
@@ -21,11 +21,11 @@ Supports:
 
 Includes the following snippet abbreviations:
 
-- `rcc` – React Client Component
-- `rccp` – React Client Component with Props
-- `rsc` – React Server Component
-- `rscp` – React Server Component with Props
-- `rah` – React Action Handler
+- `rcc` — React Client Component
+- `rccp` — React Client Component with Props
+- `rsc` — React Server Component
+- `rscp` — React Server Component with Props
+- `rah` — React Action Handler
 
 ➡️ [See full VSCode snippet list](./vscode.md)
 
@@ -33,11 +33,11 @@ Includes the following snippet abbreviations:
 
 Includes the following snippet abbreviations:
 
-- `rcc` – React Client Component
-- `rccp` – React Client Component with Props
-- `rsc` – React Server Component
-- `rscp` – React Server Component with Props
-- `rah` – React Action Handler
+- `rcc` — React Client Component
+- `rccp` — React Client Component with Props
+- `rsc` — React Server Component
+- `rscp` — React Server Component with Props
+- `rah` — React Action Handler
 
 ➡️ [See full WebStorm snippet list](./webstorm.md)
 
@@ -64,9 +64,9 @@ Includes the following snippet abbreviations:
 
 ```
 react-snippets/
-├── README.md      # You are here 👈
-├── vscode.md      # VSCode-specific snippet definitions
-└── webstorm.md    # WebStorm-specific snippet definitions
+├── README.md       # You are here 👈
+├── vscode.md       # VSCode-specific snippet definitions
+└── webstorm.md     # WebStorm-specific snippet definitions
 ```
 
 ---
