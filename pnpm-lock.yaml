@@ -9,16 +9,16 @@ importers:
   .:
     devDependencies:
       '@winnerpc/prettier-config':
-        specifier: 2025.1.1
-        version: 2025.1.1(prettier@3.5.3)
+        specifier: 2025.2.2
+        version: 2025.2.2(prettier@3.5.3)
       prettier:
         specifier: 3.5.3
         version: 3.5.3
 
 packages:
 
-  '@winnerpc/prettier-config@2025.1.1':
-    resolution: {integrity: sha512-Su3dIpwjfIYDluuW9kXdTje5rMixtUC7VmEROH7dyq9UxYTh5poV0fDr/2iEnLEG9aMhLpIAoC2XzVuDwaYjNQ==}
+  '@winnerpc/prettier-config@2025.2.2':
+    resolution: {integrity: sha512-xriPQdlZhZ58Eba16lJq+0JlEuZ51hBGmyx5ZrhlLYCo/bBP1ed5SWsyhxBPh2ecEgd7H+x+3ah30sANUhizDg==}
     peerDependencies:
       prettier: '>=3.5.0'
 
@@ -29,7 +29,7 @@ packages:
 
 snapshots:
 
-  '@winnerpc/prettier-config@2025.1.1(prettier@3.5.3)':
+  '@winnerpc/prettier-config@2025.2.2(prettier@3.5.3)':
     dependencies:
       prettier: 3.5.3
 
