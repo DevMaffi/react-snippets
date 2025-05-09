@@ -8,7 +8,7 @@
     "author": "DevMaffi",
     "license": "MIT",
     "devDependencies": {
-        "@winnerpc/prettier-config": "2025.2.2",
+        "@winnerpc/prettier-config": "2025.2.4",
         "prettier": "3.5.3"
     }
 }
