@@ -71,12 +71,12 @@ interface I$TM_FILENAME_BASE$Props
 }
 
 function $TM_FILENAME_BASE$({
-    // tabulation to here
+    // Tabulation to here
 }: I$TM_FILENAME_BASE$Props)
 {
     return (
         <div>
-            {/* tabulation to here */}
+            {/* Tabulation to here */}
         </div>
     )
 }
@@ -146,12 +146,12 @@ interface I$TM_FILENAME_BASE$Props
 }
 
 function $TM_FILENAME_BASE$({
-    // tabulation to here
+    // Tabulation to here
 }: I$TM_FILENAME_BASE$Props)
 {
     return (
         <div>
-            {/* tabulation to here */}
+            {/* Tabulation to here */}
         </div>
     )
 }
