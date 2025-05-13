@@ -22,7 +22,7 @@ A collection of handy WebStorm snippets to speed up React component creation, in
 
 Basic client-side React component template.
 
-**Snippet:**
+#### Snippet:
 
 ```tsx
 "use client"
@@ -42,7 +42,7 @@ export default $TM_FILENAME_BASE$
 
 ```
 
-**Variables:**
+#### Variables:
 
 | Name             | Expression                                          | Default value |
 | ---------------- | --------------------------------------------------- | ------------- |
@@ -58,7 +58,7 @@ export default $TM_FILENAME_BASE$
 
 Client-side component template with typed props interface.
 
-**Snippet:**
+#### Snippet:
 
 ```tsx
 "use client"
@@ -85,7 +85,7 @@ export default $TM_FILENAME_BASE$
 
 ```
 
-**Variables:**
+#### Variables:
 
 | Name             | Expression                                          | Default value |
 | ---------------- | --------------------------------------------------- | ------------- |
@@ -101,7 +101,7 @@ export default $TM_FILENAME_BASE$
 
 Server-side component without props, for static or data-fetching use cases.
 
-**Snippet:**
+#### Snippet:
 
 ```tsx
 import React from "react"
@@ -119,7 +119,7 @@ export default $TM_FILENAME_BASE$
 
 ```
 
-**Variables:**
+#### Variables:
 
 | Name             | Expression                                          | Default value |
 | ---------------- | --------------------------------------------------- | ------------- |
@@ -135,7 +135,7 @@ export default $TM_FILENAME_BASE$
 
 Server-side component with props interface for more complex static or server-rendered UIs.
 
-**Snippet:**
+#### Snippet:
 
 ```tsx
 import React from "react"
@@ -160,7 +160,7 @@ export default $TM_FILENAME_BASE$
 
 ```
 
-**Variables:**
+#### Variables:
 
 | Name             | Expression                                          | Default value |
 | ---------------- | --------------------------------------------------- | ------------- |
@@ -176,7 +176,7 @@ export default $TM_FILENAME_BASE$
 
 Simple snippet for creating a reusable event handler function.
 
-**Snippet:**
+#### Snippet:
 
 ```tsx
 function handle$NAME$()
@@ -184,12 +184,6 @@ function handle$NAME$()
     $END$
 }
 ```
-
-**Variables:**
-
-| Name | Expression | Default value |
-| ---- | ---------- | ------------- |
-| NAME |            |               |
 
 [⬆️ back to top](#webstorm-snippets-for-react-development)
 

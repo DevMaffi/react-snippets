@@ -5,7 +5,7 @@
 
 A comprehensive collection of handy React snippets for [VSCode](./vscode.md) and [WebStorm](./webstorm.md) to speed up component creation and improve productivity.
 
-Supports:
+#### Supports:
 
 - ✅ TypeScript Only
 - ✅ React Client Components

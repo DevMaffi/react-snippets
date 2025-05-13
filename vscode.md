@@ -21,7 +21,7 @@ A collection of handy VSCode snippets to speed up React component creation, incl
 
 Basic client-side React component template.
 
-**Snippet:**
+#### Snippet:
 
 ```json
 "React Client Component": {
@@ -56,7 +56,7 @@ Basic client-side React component template.
 
 Client-side component template with typed props interface.
 
-**Snippet:**
+#### Snippet:
 
 ```json
 "React Client Component with Props": {
@@ -98,7 +98,7 @@ Client-side component template with typed props interface.
 
 Server-side component without props, for static or data-fetching use cases.
 
-**Snippet:**
+#### Snippet:
 
 ```json
 "React Server Component": {
@@ -131,7 +131,7 @@ Server-side component without props, for static or data-fetching use cases.
 
 Server-side component with props interface for more complex static or server-rendered UIs.
 
-**Snippet:**
+#### Snippet:
 
 ```json
 "React Server Component with Props": {
@@ -171,7 +171,7 @@ Server-side component with props interface for more complex static or server-ren
 
 Simple snippet for creating a reusable event handler function.
 
-**Snippet:**
+#### Snippet:
 
 ```json
 "React Action Handler": {

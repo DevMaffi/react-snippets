@@ -12,8 +12,9 @@
         "editor.defaultFormatter": "dbaeumer.vscode-eslint"
     },
     "cSpell.words": [
-        "Allman",
+        "allman",
         "pascalcase",
+        "pnpx",
         "rccp",
         "rscp",
         "webstorm",
